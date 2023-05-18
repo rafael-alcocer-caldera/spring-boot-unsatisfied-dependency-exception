@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package rafael.alcocer.caldera.service;
+package rafael;
 
 public interface MyService {
 
